@@ -6,7 +6,7 @@
 ### 🛠️ Tech Stack  
 - **Languages:** Python, JavaScript (Node.js), SQL
 - **Frameworks:** Flask, Express.js, React
-- **Databases:** MongoDB
+- **Databases:** MongoDB, MySQL
 - **Frontend:** HTML, CSS, Bootstrap, Tailwind CSS
 - **Tools:** Docker, Git
 - **Operating System:** Linux
