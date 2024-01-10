@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi there! 👋 I'm Anisha, a Full Stack Developer 🚀
 
-<!--
-**ap766/ap766** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Specializing in Backend Development  
+🤝 Open to collaboration on exciting projects  
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack  
+- **Languages:** Python, JavaScript (Node.js), SQL
+- **Frameworks:** Flask, Express.js, React
+- **Databases:** MongoDB
+- **Frontend:** HTML, CSS, Bootstrap, Tailwind CSS
+- **Tools:** Docker, Git
+- **Operating System:** Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Up To 🚀
+👩‍💻 Currently interning at FOSSEE on the open-source software OpenModelica  
+🛠️ Actively engaged in personal project endeavors  
+🌐 Navigating the open-source landscape as a curious explorer
+
+### Aspirations 🌈
+🚀 Eager to explore DevOps and Cybersecurity.
+
+### Let's Connect! 🌐
+📫 Reach me at: anipatra@gmail.com  
+🔗 [GitHub](https://github.com/ap766)  
+🔗 [LinkedIn](https://www.linkedin.com/in/anishapatra/)  
+🔗 [Twitter](https://twitter.com/anisha_908)  
+🌐 [Portfolio](anipatra.me)
+
+Looking forward to connect! 🚀
