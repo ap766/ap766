@@ -4,7 +4,7 @@
 🤝 Open to collaboration on exciting projects  
 
 ### 🛠️ Tech Stack  
-- **Languages:** Python, JavaScript (Node.js), SQL
+- **Languages:** Python, JavaScript, SQL
 - **Frameworks:** Flask, Express.js, React
 - **Databases:** MongoDB, MySQL
 - **Frontend:** HTML, CSS, Bootstrap, Tailwind CSS
