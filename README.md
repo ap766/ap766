@@ -26,4 +26,4 @@
 🔗 [Twitter](https://twitter.com/anisha_908)  
 🌐 [Portfolio](anipatra.me)
 
-Looking forward to connect! 🚀
+Looking forward to connect! 🚀 ESPECIALLY FOR HACKATHONS 🥲
