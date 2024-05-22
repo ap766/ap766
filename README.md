@@ -9,7 +9,7 @@
 - **Databases:** MongoDB, MySQL
 - **Frontend:** HTML, CSS, Bootstrap, Tailwind CSS
 - **Tools:** Docker, Git
-- **Operating System:** Linux
+
 
 ### What I'm Up To 🚀
 👩‍💻 Currently interning at FOSSEE on the open-source software OpenModelica  
