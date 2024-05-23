@@ -12,7 +12,7 @@
 
 
 ### What I'm Up To 🚀
-👩‍💻 Currently interning at FOSSEE on the open-source software OpenModelica  
+👩‍💻 Currently interning at FOSSEE 
 
 🛠️ Actively engaged in personal project endeavors  
 
