@@ -30,6 +30,6 @@ Built Projects Using
 🔗 [GitHub](https://github.com/ap766)  
 🔗 [LinkedIn](https://www.linkedin.com/in/anishapatra/)  
 🔗 [Twitter](https://twitter.com/anisha_908)  
-🌐 [Portfolio](anisha7.netlify.app)
+🌐 [Portfolio](https://anisha7.netlify.app)
 
 Looking forward to connect! 🚀 ESPECIALLY FOR HACKATHONS 🥲
